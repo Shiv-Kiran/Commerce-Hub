@@ -1,0 +1,7 @@
+{
+    "user" : "harshadb",
+    "password" : "database7",
+    "host" : "localhost",
+    "database" : "projectdb",
+    "port" : 5432
+}
